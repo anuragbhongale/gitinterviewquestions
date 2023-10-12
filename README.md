@@ -1,1 +1,1 @@
-WHAT IS SCM
+WHAT IS SCM=Source code management(scm)is used to track modification to a source code repository.scm tracks a running history of change to a code base and help resolve conflicts when merging updates from multiple contributor
